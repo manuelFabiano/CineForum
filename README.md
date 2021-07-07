@@ -1,3 +1,3 @@
 # CineForum
-Simulation of a forum for films and tv series fans written in C.
-To log as an administrator, enter "admin" and "admin" as username and password.
+Simulazione di un forum per appassionati di film e serie TV scritto in C
+Per entrare con amministratore, sarà sufficiente effettuare il login inserento "admin" come nick e password.
